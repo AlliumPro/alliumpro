@@ -43,8 +43,6 @@ Notes:
 - [Инженер Информационных Систем](https://apply.innopolis.university/bachelors/information-systems-engineering/) - Innopolis University, 2025-2026
 - [Frontend-разработчик](link-to-certificate) - Yandex Practicum, 2023-2027
 
-## ASCII Art
-
 ```
      _    _ _ _                 ____            
     / \  | | (_)_   _ _ __ ___ |  _ \ _ __ ___  
