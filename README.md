@@ -1,6 +1,4 @@
-## Hi there! 👋
-
-# Oh, hi there! | Приветствую
+# Oh, hi there! | Приветствую!
 
 - **Name:** Ivan Murzin
 - **Role:** Frontend Developer (React + TypeScript)
@@ -16,13 +14,10 @@ I enjoy building clean, maintainable user interfaces and improving user experien
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,githubactions,vite,webpack,redux,linux,grafana,docker,figma,py,cpp,java&perline=8)](https://skillicons.dev)
 
-
 ## Top Projects
 
-## Top Projects
-
-1. [alliumpro](https://github.com/AlliumPro/alliumpro) 
-   - Description: Personal/profile repository (created 2026-02-14).
+1. [libnet](https://github.com/AlliumPro/libnet)
+   - Description:
 
 2. [blog-customizer](https://github.com/AlliumPro/blog-customizer) 🛠️
    - Description: Project template (TypeScript). Good example of frontend tooling and customization.
@@ -39,36 +34,14 @@ Notes:
 - Repositories include hands-on DevOps/DevSecOps labs and frontend-focused projects (TypeScript, JS, HTML).
 - Projects show interest in full delivery lifecycle: frontend + deployment/automation.
 
-## GitHub Stats
-
-## GitHub Stats 📊
-
-- Public repositories: **17**
-- Followers: **7**
-- Following: **8**
-
-## Recent Activity
-
-## Recent Activity 🔔
-
-Here are the most recent GitHub events:
-
-- 2026-02-14 — Created branch `main` in [alliumpro](https://github.com/AlliumPro/alliumpro) (CreateEvent).
-- 2026-02-07 — Opened a Pull Request to [AlliumPro/DevOps-Core-Course](https://github.com/AlliumPro/DevOps-Core-Course) (PR #3) (PullRequestEvent).
-- 2026-02-07 — Opened a Pull Request to [inno-devops-labs/DevOps-Core-Course](https://github.com/inno-devops-labs/DevOps-Core-Course) (PR #2304) coming from fork (PullRequestEvent).
-- 2026-02-07 — Multiple pushes to branch `lab3` in [AlliumPro/DevOps-Core-Course] — active development on lab work (PushEvent).
-- 2026-02-07 — Continued iterative pushes and updates to lab branches in DevOps-Core-Course repository (PushEvent).
-
-You can follow more activity on the profile: https://github.com/AlliumPro
-
 ## Connect with Me
 
-{}
+- [Telegram](https://t.me/alliumpro)
 
 ## Certifications
 
-- [Инженер Информационных Систем](link-to-certificate) - Innopolis University, 2025-2026
-- [Frontend-разработчик](link-to-certificate) - Yandex Practicum, 2025-2026
+- [Инженер Информационных Систем](https://apply.innopolis.university/bachelors/information-systems-engineering/) - Innopolis University, 2025-2026
+- [Frontend-разработчик](link-to-certificate) - Yandex Practicum, 2023-2027
 
 ## ASCII Art
 
