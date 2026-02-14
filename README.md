@@ -1,16 +1,82 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**AlliumPro/alliumpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oh, hi there! | Приветствую
 
-Here are some ideas to get you started:
+- **Name:** Ivan Murzin
+- **Role:** Frontend Developer (React + TypeScript)
+- **Open to:** Hiring
+- **Bio:** Frontend Developer | React + TypeScript
+- **Contact me:** [Telegram](https://t.me/alliumpro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main focus: building pretty and concise front-end applications. Over time I’ve also contributed to DevOps-focused projects and labs (CI/CD, Docker), which helps me fill the gap between development and deployment.
+
+I enjoy building clean, maintainable user interfaces and improving user experience. I combine strong frontend skills with practical DevOps know-how to ship reliable web apps.
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,githubactions,vite,webpack,redux,linux,grafana,docker,figma,py,cpp,java&perline=8)](https://skillicons.dev)
+
+
+## Top Projects
+
+## Top Projects
+
+1. [alliumpro](https://github.com/AlliumPro/alliumpro) 
+   - Description: Personal/profile repository (created 2026-02-14).
+
+2. [blog-customizer](https://github.com/AlliumPro/blog-customizer) 🛠️
+   - Description: Project template (TypeScript). Good example of frontend tooling and customization.
+
+3. [DevOps-Core-Course](https://github.com/AlliumPro/DevOps-Core-Course) 📚 (fork)
+   - Description: Production-grade DevOps course with hands-on labs covering Docker, Kubernetes, Helm, Terraform, Ansible, CI/CD, monitoring, and more.
+   - Stars: 0 | Language: HTML | Forks: 0 | Open issues: 1
+
+4. [F25-DevSecOps-Intro](https://github.com/AlliumPro/F25-DevSecOps-Intro) 🔐 (fork)
+   - Description: Introduction to DevSecOps — principles and hands-on security practices.
+   - Stars: 0 | Language: Shell | Forks: 0 | Open issues: 3
+
+Notes:
+- Repositories include hands-on DevOps/DevSecOps labs and frontend-focused projects (TypeScript, JS, HTML).
+- Projects show interest in full delivery lifecycle: frontend + deployment/automation.
+
+## GitHub Stats
+
+## GitHub Stats 📊
+
+- Public repositories: **17**
+- Followers: **7**
+- Following: **8**
+
+## Recent Activity
+
+## Recent Activity 🔔
+
+Here are the most recent GitHub events:
+
+- 2026-02-14 — Created branch `main` in [alliumpro](https://github.com/AlliumPro/alliumpro) (CreateEvent).
+- 2026-02-07 — Opened a Pull Request to [AlliumPro/DevOps-Core-Course](https://github.com/AlliumPro/DevOps-Core-Course) (PR #3) (PullRequestEvent).
+- 2026-02-07 — Opened a Pull Request to [inno-devops-labs/DevOps-Core-Course](https://github.com/inno-devops-labs/DevOps-Core-Course) (PR #2304) coming from fork (PullRequestEvent).
+- 2026-02-07 — Multiple pushes to branch `lab3` in [AlliumPro/DevOps-Core-Course] — active development on lab work (PushEvent).
+- 2026-02-07 — Continued iterative pushes and updates to lab branches in DevOps-Core-Course repository (PushEvent).
+
+You can follow more activity on the profile: https://github.com/AlliumPro
+
+## Connect with Me
+
+{}
+
+## Certifications
+
+- [Инженер Информационных Систем](link-to-certificate) - Innopolis University, 2025-2026
+- [Frontend-разработчик](link-to-certificate) - Yandex Practicum, 2025-2026
+
+## ASCII Art
+
+```
+     _    _ _ _                 ____            
+    / \  | | (_)_   _ _ __ ___ |  _ \ _ __ ___  
+   / _ \ | | | | | | | '_ ` _ \| |_) | '__/ _ \ 
+  / ___ \| | | | |_| | | | | | |  __/| | | (_) |
+ /_/   \_\_|_|_|\__,_|_| |_| |_|_|   |_|  \___/ 
+                                                
+```
