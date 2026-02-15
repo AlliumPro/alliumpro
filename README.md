@@ -1,9 +1,9 @@
 # Oh, hi there!
 
 - **Name:** Ivan Murzin
+- **Location:** Moscow, Innopolis
 - **Role:** Frontend Developer (React + TypeScript)
-- **Open to:** Hiring
-- **Bio:** Frontend Developer | React + TypeScript
+- **Open to:** Hiring (Hybrid/Remote)
 - **Contact me:** [Telegram](https://t.me/alliumpro)
 
 Main focus: building pretty and concise front-end applications. Over time I’ve also contributed to DevOps-focused projects and labs (CI/CD, Docker), which helps me fill the gap between development and deployment.
