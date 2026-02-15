@@ -12,7 +12,7 @@ I enjoy building clean, maintainable user interfaces and improving user experien
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,githubactions,vite,webpack,redux,linux,grafana,docker,figma,py,cpp,java&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,githubactions,vite,webpack,redux,linux,grafana,docker,figma,py&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
