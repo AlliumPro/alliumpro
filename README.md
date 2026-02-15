@@ -34,14 +34,10 @@ Notes:
 - Repositories include hands-on DevOps/DevSecOps labs and frontend-focused projects (TypeScript, JS, HTML).
 - Projects show interest in full delivery lifecycle: frontend + deployment/automation.
 
-## Connect with Me
-
-- [Telegram](https://t.me/alliumpro)
-
 ## Certifications
 
-- [Инженер Информационных Систем](https://apply.innopolis.university/bachelors/information-systems-engineering/) - Innopolis University, 2025-2026
-- [Frontend-разработчик](link-to-certificate) - Yandex Practicum, 2023-2027
+- [Инженер Информационных Систем](https://apply.innopolis.university/bachelors/information-systems-engineering/) - Innopolis University, 2023-2027
+- [Frontend-разработчик](https://practicum.yandex.ru/frontend-developer/) - Yandex Practicum, 2025-2026
 
 ```
      _    _ _ _                 ____            
