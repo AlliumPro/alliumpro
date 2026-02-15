@@ -1,4 +1,4 @@
-# Oh, hi there! | Приветствую!
+# Oh, hi there!
 
 - **Name:** Ivan Murzin
 - **Role:** Frontend Developer (React + TypeScript)
