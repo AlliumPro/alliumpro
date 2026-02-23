@@ -128,6 +128,8 @@ Built a fully responsive blog layout with complex gradients, adaptive typography
 
 **Focus:** Advanced CSS, SVG animation, responsive design, visual effects, UI interaction states.
 
+---
+
 ## Education
 
 - [BSc in Information Systems Engineering](https://apply.innopolis.university/bachelors/information-systems-engineering/) - Innopolis University, 2023-2027
