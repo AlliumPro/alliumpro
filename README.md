@@ -19,7 +19,6 @@ I take a project from UI implementation to deployment using Docker and CI/CD pip
 - Work with REST APIs (JWT auth, refresh tokens, error handling)
 - Apply performance optimizations (code splitting, lazy loading, memoization)
 - Configure Docker and GitHub Actions for automated builds and deployments
-- Collaborate via Git workflow and pull requests
 
 ---
 
@@ -51,16 +50,6 @@ I take a project from UI implementation to deployment using Docker and CI/CD pip
 
 ## Top Projects
 
-### **[LibNet](https://github.com/IU-Capstone-Project-2025/libnet) - Multi-Library Aggregator**
-
-Full-stack university capstone project for multi-library book search and reservation management.
-
-- Designed full UI/UX in Figma and implemented React-based interface.
-- Deployed application to VPS using Docker and docker-compose.
-- Configured CI/CD pipeline with GitHub Actions for automated deployment.
-- Set up custom domain with HTTPS (SSL).
-  
-
 ### **[Stellar Burger](https://github.com/AlliumPro/stellar-burgers) - React + Redux Application**
 
 Single Page Application with routing, global state management and authenticated user flows.
@@ -75,6 +64,15 @@ Single Page Application with routing, global state management and authenticated 
 
   **Result:** Fully functional SPA with authentication, role-based access, real-time updates and structured Redux architecture.
 
+### **[LibNet](https://github.com/IU-Capstone-Project-2025/libnet) - Multi-Library Aggregator**
+
+Full-stack university capstone project for multi-library book search and reservation management.
+
+- Designed full UI/UX in Figma and implemented React-based interface.
+- Deployed application to VPS using Docker and docker-compose.
+- Configured CI/CD pipeline with GitHub Actions for automated deployment.
+- Set up custom domain with HTTPS (SSL).
+
 ### **[WebLarёk](https://github.com/AlliumPro/weblarek) - TypeScript Architecture & Data Modeling Project**
 
 Designed and implemented the data architecture of an online store using MVP pattern.
@@ -85,7 +83,7 @@ Designed and implemented the data architecture of an online store using MVP patt
 - Built validation logic for buyer data with structured error reporting
 - Developed communication layer for API integration (GET products / POST orders)
 
-**Result:** Scalable architecture, type-safe data handling, clean separation between models and API layer.
+**Result:** Scalable, type-safe architecture with clear separation between data models and API layer.
 
 ### **[Blog Customizer](https://github.com/AlliumPro/blog-customizer) - React State Management & UI Customization Project**
 
@@ -111,7 +109,7 @@ Refactored a client-side smart table to work with a remote API using query-based
 - Added request caching mechanism to prevent redundant API calls
 - Removed legacy client-side comparator logic (300+ lines) while preserving functionality
 
-**Focus:** Refactoring methodology, server-side data handling, async state-driven rendering, clean query-based architecture.
+**Result:** Server-side filtering, sorting and pagination with async rendering and clean query-driven architecture.
 
 ### **[Closing Tag](https://github.com/AlliumPro/zakrivayuschiy-teg-f) - Advanced CSS Layout & Animation Project**
 
@@ -140,7 +138,7 @@ Built a fully responsive blog layout with complex gradients, adaptive typography
 ## Languages
 
 - Russian — Native
-- English — C1 (totally okay with documentation, technical discussions, and interviews)
+- English — C1 (comfortable with documentation, technical discussions, and interviews)
 
 ```
      _    _ _ _                 ____            
