@@ -24,7 +24,7 @@ I take a project from UI implementation to deployment using Docker and CI/CD pip
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,githubactions,vite,webpack,redux,linux,grafana,docker,figma,py&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,githubactions,vite,webpack,redux,linux,grafana,docker,figma,vscode&perline=8)](https://skillicons.dev)
 
 ### Frontend
 - React, TypeScript, JavaScript (ES6+), Redux Toolkit, Context API, React Router, HTML5, CSS3, responsive layout
